@@ -3,7 +3,6 @@
 
 #include <QMainWindow>
 
-QT_BEGIN_NAMESPACE
 
 class MainWindow : public QMainWindow
 {
